@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <a href="https://github.com/xecte-7/AgaChat/releases"><img src="https://raw.githubusercontent.com/xecte-7/MyAssets/main/AgaChat/version-1.1.0/banner_AgaChat.png" alt="AgaChat" width="25%">
+  <a href="https://github.com/xecte-7/AgaChat/releases"><img src="https://raw.githubusercontent.com/xecte-7/MyAssets/main/AgaChat/version-1.1.0/banner_AgaChat.png" alt="AgaChat">
   </a>
 </p>
 
