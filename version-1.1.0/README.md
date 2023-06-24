@@ -26,6 +26,7 @@ https://github.com/xecte-7/AgaChat/releases/
 
 ### CHANGELOG
 > - version 1.1.0
+>   - changed project name from "WeChat" to "AgaChat"
 > 	- GUI mode is now available
 > 	- fixing bug on accepting client and disconnecting client
 > 
