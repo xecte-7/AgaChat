@@ -1,0 +1,4 @@
+# v1.5
+pyinstaller app_main.py -w --name="agachat" --icon="assets\logo\logo-agachat.ico" --noconfirm --upx-dir="C:\Tools\UPX" --clean
+
+pyinstaller app_main.py -w --name="agachat" --icon="./assets/logo/logo-agachat.ico" --noconfirm --upx-dir="/home/rizky/upx" --clean
