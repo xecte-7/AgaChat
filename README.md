@@ -4,7 +4,7 @@
 </p>
 
 # AgaChat
-*AgaChat is no-internet chatting application on Local Area Network. Works with simple TCP/IP protocol communication*
+*AgaChat is free no-internet chatting app for Local Area Network (LAN). It works by using simple TCP/IP communication*
 
 ### RELEASES
 Check AgaChat releases here :<br>
@@ -27,7 +27,7 @@ https://github.com/xecte-7/AgaChat/releases/
 ### CHANGELOG
 > - version 1.1.0
 >   - changed project name from "WeChat" to "AgaChat"
-> 	- GUI mode is now available
+> 	- GUI mode is now available for Windows and Linux
 > 	- fixing bug on accepting client and disconnecting client
 > 
 > - version 1.0.0

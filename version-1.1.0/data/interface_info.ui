@@ -121,7 +121,7 @@ QLabel {
      </font>
     </property>
     <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt; font-weight:700;&quot;&gt;Version 1.1.0&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;AgaChat is no-internet chatting application on&lt;br/&gt;Local Area Network. Works with simple TCP/IP&lt;br/&gt;protocol communication.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt; font-weight:700;&quot;&gt;Version 1.1.0&lt;/span&gt;&lt;br/&gt;&lt;br/&gt;AgaChat is free no-internet chatting app&lt;br/&gt;for Local Area Network (LAN). It works by&lt;br/&gt;using simple TCP/IP communication&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
@@ -143,7 +143,7 @@ QLabel {
      </font>
     </property>
     <property name="text">
-     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Coded by &lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-weight:700;&quot;&gt;XECTE-7 (Muhammad Rizky)&lt;/span&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;&lt;br/&gt;Official release page : &lt;/span&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;https://github.com/xecte-7/AgaChat/releases&lt;/span&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;&lt;br/&gt;&lt;br/&gt;[*] Github : https://github.com/xecte-7/&lt;br/&gt;[*] Instagram : @xecte_7 @portal_it.id @muhammad.rizky98&lt;br/&gt;&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-style:italic;&quot;&gt;#Portal_IT_ID #HMTK_FT_UBT #DariTeknikUntukDunia&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;Coded by &lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-weight:700;&quot;&gt;XECTE-7 (Muhammad Rizky)&lt;/span&gt;&lt;span style=&quot; font-size:10pt;&quot;&gt;&lt;br/&gt;Official project page : https://github.com/xecte-7/AgaChat/&lt;br/&gt;&lt;br/&gt;[*] Github : https://github.com/xecte-7/&lt;br/&gt;[*] Instagram : @xecte_7 @portal_it.id @muhammad.rizky98&lt;br/&gt;&lt;br/&gt;&lt;/span&gt;&lt;span style=&quot; font-size:10pt; font-style:italic;&quot;&gt;#Portal_IT_ID #HMTK_FT_UBT #DariTeknikUntukDunia&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="alignment">
      <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
