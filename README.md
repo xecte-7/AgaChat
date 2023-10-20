@@ -1,5 +1,5 @@
 # AgaChat
-### _Local Network Chatting App_
+### _Local Area Network Chatting App_
 
 <p align="center" width="100%">
   <a href="https://github.com/xecte-7/AgaChat/releases"><img src="./documentation/version-1.1.0/banner.png" alt="AgaChat">
@@ -19,7 +19,7 @@ This project is available for listed operating system :
 
 For Linux, make sure to run the installer script so you can run it with *AgaChat* command
 
-Install :
+Install AgaChat :
 ```sh
 chmod +x *.sh
 ./install.sh
@@ -28,7 +28,7 @@ Run AgaChat :
 ```sh
 AgaChat
 ```
-Uninstall :
+Uninstall AgaChat :
 ```sh
 AgaChat-uninstall
 ```
@@ -55,14 +55,14 @@ AgaChat-uninstall
 
 ## Author
 
-*About Me*
+**About Me**<br>
 Hello friends, I'm Muhammad Rizky (aka XECTE-7) a computer engineering college student at University of Borneo Tarakan. I started making projects on the field of ethical hacking, networking, and system utility at the beginning of 2019 till now.
 
-*Contact*
-Instagram : [@muhammad.rizky98](https://www.instagram.com/muhammad.rizky98)
-YouTube : [Portal-IT ID](https://github.com/@portal_it_id)
-Github : [@xecte-7](https://github.com/xecte-7)
-SourceForge : [@xecte-7](https://sourceforge.net/u/xecte-7)
-HackerOne : [@xecte-7](https://hackerone.com/xecte-7)
+**Contact**<br>
+- Instagram : [@muhammad.rizky98](https://www.instagram.com/muhammad.rizky98)
+- YouTube : [Portal-IT ID](https://github.com/@portal_it_id)
+- Github : [@xecte-7](https://github.com/xecte-7)
+- SourceForge : [@xecte-7](https://sourceforge.net/u/xecte-7)
+- HackerOne : [@xecte-7](https://hackerone.com/xecte-7)
 
-#XECTE_7 #PORTAL_IT_ID #DariTeknikUntukDunia #HMTK_FT_UBT
+*#XECTE_7 #PORTAL_IT_ID #DariTeknikUntukDunia #HMTK_FT_UBT*
