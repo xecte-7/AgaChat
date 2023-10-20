@@ -1,35 +1,65 @@
+# AgaChat
+### _Local Network Chatting App_
+
 <p align="center" width="100%">
-  <a href="https://github.com/xecte-7/AgaChat/releases"><img src="https://raw.githubusercontent.com/xecte-7/MyAssets/main/AgaChat/version-1.1.0/banner_AgaChat.png" alt="AgaChat">
+  <a href="https://github.com/xecte-7/AgaChat/releases"><img src="./documentation/version-1.1.0/banner.png" alt="AgaChat">
   </a>
 </p>
 
-# AgaChat
-*AgaChat is free no-internet chatting app for Local Area Network (LAN). It works by using simple TCP/IP communication*
+AgaChat is free no-internet chatting app for Local Area Network (LAN). It works by using simple TCP/IP communication. Note that both or more devices that want to communicate should be on the same network and able to ping each other.
 
-### RELEASES
-Check AgaChat releases here :<br>
-https://github.com/xecte-7/AgaChat/releases/
-<br>
-*Note: Available for Windows and Linux on GUI mode*
+## Installation
 
-### ABOUT AUTHOR
-> **[About Me]**<br>
-> *Coded by Muhammad Rizky* a.k.a *XECTE-7*<br>
-> *I'm computer engineering college student at University of Borneo Tarakan that recently diagnosed with curiosity for cyber security and programming.*
-> 
-> **[Contact]**<br>
-> Instagram : *@muhammad.rizky98 / @portal_it.id / @xecte_7*<br>
-> Github : *github.com/xecte-7*<br>
-> HackerOne : *hackerone.com/xecte-7*<br>
-> YouTube : *Portal-IT ID*<br>
-> *#XECTE_7 #Portal_IT_ID #DariTeknikUntukDunia #HMTK_FT_UBT*
+This project is available for listed operating system :
 
-### CHANGELOG
+| Operating System | Latest version |
+| ---------------- | -------------- |
+| Windows | [AgaChat-1.1.0-win](https://github.com/xecte-7/AgaChat/releases/download/version-1.1.0/AgaChat-1.1.0-win.zip) |
+| Linux | [AgaChat-1.1.0-linux](https://github.com/xecte-7/AgaChat/releases/download/version-1.1.0/AgaChat-1.1.0-linux.zip) |
+
+For Linux, make sure to run the installer script so you can run it with *AgaChat* command
+
+Install :
+```sh
+chmod +x *.sh
+./install.sh
+```
+Run AgaChat :
+```sh
+AgaChat
+```
+Uninstall :
+```sh
+AgaChat-uninstall
+```
+
+
+## Preview
+
+![alt text](img-url "text hover")
+![alt text Preview 1](preview-1.png "Preview 1")
+
+## ChangeLog
+
 > - version 1.1.0
 >   - changed project name from "WeChat" to "AgaChat"
-> 	- GUI mode is now available for Windows and Linux
-> 	- fixing bug on accepting client and disconnecting client
+>   - GUI mode is now available for Windows and Linux
+>   - fixing bug on accepting client and disconnecting client
 > 
 > - version 1.0.0
-> 	- CLI mode and multi-platform
-> 	- using colored font for different client/connection
+>   - CLI mode and multi-platform
+>   - using colored font for different client/connection
+
+## Author
+
+*About Me*
+Hello friends, I'm Muhammad Rizky (aka XECTE-7) a computer engineering college student at University of Borneo Tarakan. I started making projects on the field of ethical hacking, networking, and system utility at the beginning of 2019 till now.
+
+*Contact*
+Instagram : [@muhammad.rizky98](https://www.instagram.com/muhammad.rizky98)
+YouTube : [Portal-IT ID](https://github.com/@portal_it_id)
+Github : [@xecte-7](https://github.com/xecte-7)
+SourceForge : [@xecte-7](https://sourceforge.net/u/xecte-7)
+HackerOne : [@xecte-7](https://hackerone.com/xecte-7)
+
+#XECTE_7 #PORTAL_IT_ID #DariTeknikUntukDunia #HMTK_FT_UBT
