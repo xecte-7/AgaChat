@@ -6,7 +6,7 @@
   </a>
 </p>
 
-AgaChat is free no-internet chatting app for Local Area Network (LAN). It works by using simple TCP/IP communication. Note that both or more devices that want to communicate should be on the same network and able to ping each other.
+AgaChat is free no-internet chatting app for Local Area Network (LAN). It works by using simple TCP/IP communication. Note that both or more devices that want to communicate should be on the same network and able to ping each other. One device should be the server to maintain the connection for other device *(Server device can also run as Client on another AgaChat window)*.
 
 ## Installation
 
