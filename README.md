@@ -36,8 +36,11 @@ AgaChat-uninstall
 
 ## Preview
 
-![alt text](img-url "text hover")
-![alt text Preview 1](preview-1.png "Preview 1")
+![Home Option]("./documentation/version-1.1.0/page_Home.png" "Home Option")
+![Server Setting]("./documentation/version-1.1.0/page_ServerSetting.png" "Server Setting")
+![Client Setting]("./documentation/version-1.1.0/page_ClientSetting.png" "Client Setting")
+![Chat Room Example]("./documentation/version-1.1.0/page_ChatRoom1.png" "Chat Room Example")
+![Chat Room Example]("./documentation/version-1.1.0/page_ChatRoom2.png" "Chat Room Example")
 
 ## ChangeLog
 
